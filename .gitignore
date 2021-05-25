@@ -1,0 +1,8 @@
+# some basic Code:Blocks ignores
+*.cbp
+*.depend
+*.layout
+
+# ignores anything compiled or distributable
+/bin
+/obj
