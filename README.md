@@ -8,7 +8,9 @@ This file will also contain some project planning stuff, as versions change and 
 
 ## Game Loop data flow
 
-> Game starts
->  get_input()
->  update()
->  render()
+```
+Game starts
+ get_input()
+ update()
+ render()
+```
