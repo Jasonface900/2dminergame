@@ -1,4 +1,4 @@
-#2D Miner Game
+# 2D Miner Game
 ---
 
 The goal of this project is to start with the basics of game development, with a simple little 2D mining game!
